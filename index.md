@@ -7,5 +7,9 @@
 #### The long term average soil moisture levels can be seen below (Fig 1). Low values are seen in arid areas such as the Sahara desert, Western Australia, and Antarctica. High values are seen in the tropical rainforests, as well as the temperate climates of Eastern North America, parts of Europe, Eastern China, and Japan.
 ![Fig 1 CPC Soil Moisture 1948-2021](/CLIM680/hw1/longtermmean.png)
 
-#### Monthly climatology over the time period of the dataset (1948-2021) can be seen below (Fig 2). Significant monthly and seasonal variations are seen in the temperate climates, while 
+#### Monthly climatology over the time period of the dataset (1948-2021) can be seen below (Fig 2). Significant monthly and seasonal variations are seen in the temperate climates, while deserts do not see significant variation even outside the tropics.
 ![Fig 2 CPC Soil Moisture Monthly Climatology](/CLIM680/hw2/monthlyswmean.png)
+
+#### Here I will show composites and correlations of soil moisture with an el nino index and an index of sea surface temperatures (SSTs) near the West coast of the United States. I will be focusing on the Western United States.
+
+#### Lastly there will be links to my code, environment, and other references.
